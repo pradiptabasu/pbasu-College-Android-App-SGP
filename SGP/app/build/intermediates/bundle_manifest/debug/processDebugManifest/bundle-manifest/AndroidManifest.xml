@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sgp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.sgp.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sgp.MainActivity"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.sgp.AboutActivity"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="com.sgp.FacultyActivity"
+            android:label="@string/title_activity_faculty" >
+        </activity>
+        <activity
+            android:name="com.sgp.IaActivity"
+            android:label="@string/title_activity_ia" >
+        </activity>
+        <activity
+            android:name="com.sgp.DatabaseActivity"
+            android:label="@string/title_activity_database" >
+        </activity>
+        <activity
+            android:name="com.sgp.CseActivity"
+            android:label="@string/title_activity_cse" >
+        </activity>
+        <activity
+            android:name="com.sgp.EceActivity"
+            android:label="@string/title_activity_ece" >
+        </activity>
+        <activity
+            android:name="com.sgp.MechActivity"
+            android:label="@string/title_activity_mech" >
+        </activity>
+        <activity
+            android:name="com.sgp.MetActivity"
+            android:label="@string/title_activity_met" >
+        </activity>
+        <activity
+            android:name="com.sgp.EeeActivity"
+            android:label="@string/title_activity_eee" >
+        </activity>
+        <activity
+            android:name="com.sgp.CivilActivity"
+            android:label="@string/title_activity_civil" >
+        </activity>
+        <activity
+            android:name="com.sgp.EventActivity"
+            android:label="@string/title_activity_event" >
+        </activity>
+        <activity
+            android:name="com.sgp.MarksActivity"
+            android:label="@string/title_activity_marks" >
+        </activity>
+        <activity
+            android:name="com.sgp.MapsActivity"
+            android:label="@string/title_activity_maps" >
+        </activity>
+        <activity
+            android:name="com.sgp.Department"
+            android:label="@string/title_activity_department" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\cbaa0bd28ab28934ee134e3578c579ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\ac35c973fbf9941b094c689a5d02ac0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\881b5d417b41539488970b3367695566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6f4846fa6483fb34c9258432afd99bdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\31f498d044977ebf7b27877b79caea1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\47f25db4a2866423c69c0a6761e5d4a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\cb0f934c9a226383ace7a2965a4faf51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5ad9de05da76b7eabb9e726ee8ce7335\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\dba1236322166a00acde7225719b8506\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\7989aeac833522b9da3340b46174cc29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\e63f4352c4e65ebf9ab3afb4acc87230\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\4642d54493ce82da2c0fcaf447bd9af6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6e77c9e248ab4f0cfb152474342055ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5a49bc99258655982586c339f04b139d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5cc83c003cabe8f4ca0139b8c7776f3b\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\80321f09c5e3616b105bb5ca52e10947\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6a471b50ded025e02cc0a1facce2a516\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\a3614ac8b718135d83e327f89be44c58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\b3d9aacff8268bcbcc4a2c9ff6649560\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\776b25d6b46abb3f16919c5d5798ed4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\c5ca4aa34a34ae637fd2b14cd3f6110c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\3e8d809468eb1153220461aa06587507\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\f43a3dd36818cd5c0fb958a784177620\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\74599c4b34a34146ed44379e13a7b5ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\e650e927534ded9f262791f83e5ee0c2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:3:5-22
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:9:5-88:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5a49bc99258655982586c339f04b139d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5a49bc99258655982586c339f04b139d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5cc83c003cabe8f4ca0139b8c7776f3b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5cc83c003cabe8f4ca0139b8c7776f3b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5a49bc99258655982586c339f04b139d\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:13:9-40
+	android:networkSecurityConfig
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:14:9-69
+	android:usesCleartextTraffic
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:15:9-44
+uses-library#org.apache.http.legacy
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:17:9-87
+	android:required
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:17:61-85
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:17:23-60
+activity#com.sgp.LoginActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:20:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.sgp.MainActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:29:13-41
+activity#com.sgp.AboutActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:34:13-57
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:33:13-42
+activity#com.sgp.FacultyActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:37:13-44
+activity#com.sgp.IaActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:41:13-39
+activity#com.sgp.DatabaseActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:46:13-60
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:45:13-45
+activity#com.sgp.CseActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:49:13-40
+activity#com.sgp.EceActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:54:13-55
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:53:13-40
+activity#com.sgp.MechActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:57:13-41
+activity#com.sgp.MetActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:62:13-55
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:61:13-40
+activity#com.sgp.EeeActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:66:13-55
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:65:13-40
+activity#com.sgp.CivilActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:70:13-57
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:69:13-42
+activity#com.sgp.EventActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:74:13-57
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:73:13-42
+activity#com.sgp.MarksActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:78:13-57
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:77:13-42
+activity#com.sgp.MapsActivity
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:81:13-41
+activity#com.sgp.Department
+ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:86:13-62
+	android:name
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml:85:13-39
+uses-sdk
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\cbaa0bd28ab28934ee134e3578c579ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\cbaa0bd28ab28934ee134e3578c579ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\ac35c973fbf9941b094c689a5d02ac0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\ac35c973fbf9941b094c689a5d02ac0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\881b5d417b41539488970b3367695566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\881b5d417b41539488970b3367695566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6f4846fa6483fb34c9258432afd99bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6f4846fa6483fb34c9258432afd99bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\31f498d044977ebf7b27877b79caea1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\31f498d044977ebf7b27877b79caea1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\47f25db4a2866423c69c0a6761e5d4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\47f25db4a2866423c69c0a6761e5d4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\cb0f934c9a226383ace7a2965a4faf51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\cb0f934c9a226383ace7a2965a4faf51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5ad9de05da76b7eabb9e726ee8ce7335\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5ad9de05da76b7eabb9e726ee8ce7335\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\dba1236322166a00acde7225719b8506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\dba1236322166a00acde7225719b8506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\7989aeac833522b9da3340b46174cc29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\7989aeac833522b9da3340b46174cc29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\e63f4352c4e65ebf9ab3afb4acc87230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\e63f4352c4e65ebf9ab3afb4acc87230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\4642d54493ce82da2c0fcaf447bd9af6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\4642d54493ce82da2c0fcaf447bd9af6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6e77c9e248ab4f0cfb152474342055ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6e77c9e248ab4f0cfb152474342055ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5a49bc99258655982586c339f04b139d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5a49bc99258655982586c339f04b139d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5cc83c003cabe8f4ca0139b8c7776f3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\5cc83c003cabe8f4ca0139b8c7776f3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\80321f09c5e3616b105bb5ca52e10947\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\80321f09c5e3616b105bb5ca52e10947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6a471b50ded025e02cc0a1facce2a516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\6a471b50ded025e02cc0a1facce2a516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\a3614ac8b718135d83e327f89be44c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\a3614ac8b718135d83e327f89be44c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\b3d9aacff8268bcbcc4a2c9ff6649560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\b3d9aacff8268bcbcc4a2c9ff6649560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\776b25d6b46abb3f16919c5d5798ed4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\776b25d6b46abb3f16919c5d5798ed4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\c5ca4aa34a34ae637fd2b14cd3f6110c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\c5ca4aa34a34ae637fd2b14cd3f6110c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\3e8d809468eb1153220461aa06587507\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\3e8d809468eb1153220461aa06587507\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\f43a3dd36818cd5c0fb958a784177620\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\f43a3dd36818cd5c0fb958a784177620\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\74599c4b34a34146ed44379e13a7b5ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\74599c4b34a34146ed44379e13a7b5ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\e650e927534ded9f262791f83e5ee0c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pbasu4\.gradle\caches\transforms-2\files-2.1\e650e927534ded9f262791f83e5ee0c2\AndroidManifest.xml:20:5-44
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\AndroidStudioProjects\SGP\app\src\main\AndroidManifest.xml

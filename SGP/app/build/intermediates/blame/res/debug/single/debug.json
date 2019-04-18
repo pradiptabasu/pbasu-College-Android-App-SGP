@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ia.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_ia.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_faculty.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_faculty.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_department.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_department.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_event.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_event.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_mech.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\mech.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ia.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ia.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_event.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_event.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_civil.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\civil.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ia.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_ia.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_event.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_event.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_eee.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\eee.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_event.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_event.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_department.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_department.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_about.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_civil.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_civil.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_marks.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\marks.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_department.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_department.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_marks.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_marks.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_faculty.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_faculty.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_ece.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\ece.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_met.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_met.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faculty.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_faculty.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_maps.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\maps.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_met.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\met.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_faculty.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\faculty.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_welcome.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_cse.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\cse.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_img2.jpg.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\img2.jpg"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_event.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_event.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cse.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_cse.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eee.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_eee.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ia.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_ia.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_department.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\department.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_ia.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\ia.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ia.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_ia.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_event.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\event.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_department.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_department.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\menu_database.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\menu\\database.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_faculty.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-hdpi\\ic_faculty.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mech.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_mech.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_department.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_department.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ece.xml.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\layout\\activity_ece.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\ac35c973fbf9941b094c689a5d02ac0b\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\pbasu4\\.gradle\\caches\\transforms-2\\files-2.1\\5a49bc99258655982586c339f04b139d\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_faculty.png.flat",
+        "source": "D:\\Workspace\\AndroidStudioProjects\\SGP\\app\\src\\main\\res\\drawable-mdpi\\ic_faculty.png"
+    }
+]
